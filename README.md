@@ -8,6 +8,7 @@ Meeting and often surpassing goals, I'm comfortable in the lively tempo of fast-
 
 Technologies/platforms I've worked with include:
 
+<div>
 <img alt="HTML5" style="margin-right: 1%; margin-bottom: 1%" src="https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5&logoColor=E34F26">
 <img alt="CSS3" style="margin-right: 1%; margin-bottom: 1%" src="https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3&logoColor=1572B6">
 <img alt="JavaScript" style="margin-right: 1%; margin-bottom: 1%" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript">
@@ -37,5 +38,6 @@ Technologies/platforms I've worked with include:
 <img alt="Git" style="margin-right: 1%; margin-bottom: 1%" src="https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logoColor=F05032">
 <img alt="Markdown" style="margin-right: 1%; margin-bottom: 1%" src="https://img.shields.io/badge/Markdown-grey?style=for-the-badge&logo=markdown&logoColor=000000">
 <img alt="Visual Studio Code" style="margin-right: 1%; margin-bottom: 1%" src="https://img.shields.io/badge/Visual_Studio_Code-grey?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-godinho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
