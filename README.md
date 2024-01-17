@@ -40,4 +40,6 @@ Technologies/platforms I've worked with include:
 <img alt="Visual Studio Code" style="margin-right: 1%; margin-bottom: 1%" src="https://img.shields.io/badge/Visual_Studio_Code-grey?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">
 </div>
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-godinho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
