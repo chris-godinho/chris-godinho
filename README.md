@@ -1,6 +1,6 @@
 # Hey you.
 
-I'm Chris, a certified full-stack web developer (EdX/University of Toronto) blending a mix of logistics, finance, and theatre into my tech journey.
+I'm Chris (He/Him), a certified full-stack web developer (EdX/University of Toronto) blending a mix of logistics, finance, and theatre into my tech journey.
 
 From the world of banking to the dance of warehousing, I bring a robust work ethic and sharp analytical/problem-solving skills. My sweet spot? Crafting and steering web applications from start to finish.
 
